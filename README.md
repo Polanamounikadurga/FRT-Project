@@ -6,7 +6,7 @@ This is a web based application developed for health related website in india
 
 
 *Project Link* - https://agreeable-desert-063c19d00.2.azurestaticapps.net/
-
+*demo vedio link* -
 
 ## Features and Functionalities 😃
 
@@ -30,6 +30,15 @@ This is a web based application developed for health related website in india
 
 
 
+### classes -
+
+
+
+### contact us
+
+
+
+
 
 
 
@@ -40,7 +49,7 @@ This is a web based application developed for health related website in india
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+
 - HTML
 - CSS
 - Bootstrap
