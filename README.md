@@ -25,22 +25,26 @@ This is a web based application developed for health related website in india
 
 ### Home -
 
-   
+   ![2022-12-14](https://user-images.githubusercontent.com/115459156/207517316-79b73b01-3323-453b-92da-06e5ca5bcf75.png)
+
 
 ### About Us -
 
 
+![2022-12-14 (2)](https://user-images.githubusercontent.com/115459156/207517559-8a228585-f4e1-4bb0-bfdd-78f6c7f9e11e.png)
 
 
 ### classes -
 
 
+![2022-12-14 (3)](https://user-images.githubusercontent.com/115459156/207517695-811ffe1e-9552-472d-b229-906c07074fbd.png)
 
 ### contact us
 
 
 
 
+![2022-12-14 (4)](https://user-images.githubusercontent.com/115459156/207518965-f7c40e12-1c99-4b94-9d2e-71544010f63e.png)
 
 
 
