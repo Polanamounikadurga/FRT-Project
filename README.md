@@ -8,7 +8,7 @@ This is a web based application developed for health related website in india
 *Project Link* - https://agreeable-desert-063c19d00.2.azurestaticapps.net/
 
 
-*demo vedio link* -
+*demo vedio link* - https://youtu.be/HYrLyP14XsU
 
 ## Features and Functionalities 😃
 
