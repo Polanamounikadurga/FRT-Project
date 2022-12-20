@@ -48,8 +48,7 @@ This is a web based application developed for health related website in india
 
 
 
-###Static web apps-
-
+### Static web apps-
 
 
 
@@ -57,8 +56,7 @@ This is a web based application developed for health related website in india
 
 
 
-###Azure health bot-
-
+### Azure health bot-
 
 
 
